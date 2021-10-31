@@ -1,8 +1,6 @@
 import 'package:flutter/material.dart';
 
-class Homepage extends StatelessWidget {
-  const Homepage({Key? key}) : super(key: key);
-
+class HomePage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final int day = 30;
